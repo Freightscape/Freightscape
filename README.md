@@ -1,4 +1,5 @@
 <img src ="https://media.giphy.com/media/xF01gonZ4v4ubHFTtf/giphy.gif" align='middle'> <br>
+<div style='position:relative; padding-bottom:calc(57.50% + 44px)'><iframe src='https://gfycat.com/ifr/ActiveClosedGnatcatcher' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div><p><a href="https://gfycat.com/discover/totally-gifs">from Totally GIFs</a> <a href="https://gfycat.com/activeclosedgnatcatcher-totally">via Gfycat</a></p>
 
 #### 🧍 PERSONAL STATEMENT
 I am a GIS Analyst with a Software Engineering background. I have 3 years of professional experience with ESRI GIS suite. In those roles, I created a variety of GIS mapping projects and cartography. Some of my major projects were to automate geoprocessing workflows and manage enterprise databases using Python, JavaScript, and SQL. That's what inspired me to join a coding bootcamp- I wanted to gain more technical software engineering skills to improve my automation skills in GIS. I'm now combining those coding skills with my ability to analyze and problem-solve to deliver clear, comprehensive geographical data. </br>
