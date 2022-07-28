@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/105219025/181429969-9df53872-43de-4007-a5cd-bb2aac13ee4d.gif)
+
 ![image](https://user-images.githubusercontent.com/105219025/181429564-ec15d90a-3d92-412f-a412-c8aaa5d3a527.gif)
 
 #### 🧍 PERSONAL STATEMENT
