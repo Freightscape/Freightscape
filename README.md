@@ -1,7 +1,5 @@
 ![image](https://user-images.githubusercontent.com/105219025/181429969-9df53872-43de-4007-a5cd-bb2aac13ee4d.gif)
 
-![image](https://user-images.githubusercontent.com/105219025/181429564-ec15d90a-3d92-412f-a412-c8aaa5d3a527.gif)
-
 #### 🧍 PERSONAL STATEMENT
 I am a GIS Analyst with a Software Engineering background. I have 3 years of professional experience with ESRI GIS suite. In those roles, I created a variety of GIS mapping projects and cartography. Some of my major projects were to automate geoprocessing workflows and manage enterprise databases using Python, JavaScript, and SQL. That's what inspired me to join a coding bootcamp- I wanted to gain more technical software engineering skills to improve my automation skills in GIS. I'm now combining those coding skills with my ability to analyze and problem-solve to deliver clear, comprehensive geographical data. </br>
 
