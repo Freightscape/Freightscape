@@ -1,4 +1,3 @@
-<img src ="https://media.giphy.com/media/xF01gonZ4v4ubHFTtf/giphy.gif" align='middle'> <br>
 ![image](https://user-images.githubusercontent.com/105219025/181429564-ec15d90a-3d92-412f-a412-c8aaa5d3a527.gif)
 
 #### 🧍 PERSONAL STATEMENT
